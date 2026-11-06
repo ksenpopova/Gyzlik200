@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.spec
+*.exe
+*.zip
+app_data.json*
+app_data.lock
